@@ -93,6 +93,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>OneBEService</finalName>
     </build>
 
 </project>
